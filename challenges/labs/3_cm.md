@@ -33,6 +33,69 @@ drwxrwxr-t   - hive   hive                0 2016-11-14 22:40 /user/hive
 drwxr-xr-x   - kang   supergroup          0 2016-11-14 22:39 /user/kang
 drwxr-xr-x   - kodos  supergroup          0 2016-11-14 22:39 /user/kodos
 
+{
+  "items" : [ {
+    "hostId" : "i-09a86b75f937e7f51",
+    "ipAddress" : "172.31.53.128",
+    "hostname" : "ip-172-31-53-128.ec2.internal",
+    "rackId" : "/default",
+    "hostUrl" : "http://ip-172-31-53-129.ec2.internal:7180/cmf/hostRedirect/i-09a86b75f937e7f51",
+    "maintenanceMode" : false,
+    "maintenanceOwners" : [ ],
+    "commissionState" : "COMMISSIONED",
+    "numCores" : 4,
+    "numPhysicalCores" : 4,
+    "totalPhysMemBytes" : 15740305408
+  }, {
+    "hostId" : "i-09dfd88ba315ffb17",
+    "ipAddress" : "172.31.53.129",
+    "hostname" : "ip-172-31-53-129.ec2.internal",
+    "rackId" : "/default",
+    "hostUrl" : "http://ip-172-31-53-129.ec2.internal:7180/cmf/hostRedirect/i-09dfd88ba315ffb17",
+    "maintenanceMode" : false,
+    "maintenanceOwners" : [ ],
+    "commissionState" : "COMMISSIONED",
+    "numCores" : 4,
+    "numPhysicalCores" : 4,
+    "totalPhysMemBytes" : 15740305408
+  }, {
+    "hostId" : "i-09e3f01cb58304566",
+    "ipAddress" : "172.31.53.130",
+    "hostname" : "ip-172-31-53-130.ec2.internal",
+    "rackId" : "/default",
+    "hostUrl" : "http://ip-172-31-53-129.ec2.internal:7180/cmf/hostRedirect/i-09e3f01cb58304566",
+    "maintenanceMode" : false,
+    "maintenanceOwners" : [ ],
+    "commissionState" : "COMMISSIONED",
+    "numCores" : 4,
+    "numPhysicalCores" : 4,
+    "totalPhysMemBytes" : 15740305408
+  }, {
+    "hostId" : "i-095bc43556e955e9a",
+    "ipAddress" : "172.31.53.131",
+    "hostname" : "ip-172-31-53-131.ec2.internal",
+    "rackId" : "/default",
+    "hostUrl" : "http://ip-172-31-53-129.ec2.internal:7180/cmf/hostRedirect/i-095bc43556e955e9a",
+    "maintenanceMode" : false,
+    "maintenanceOwners" : [ ],
+    "commissionState" : "COMMISSIONED",
+    "numCores" : 4,
+    "numPhysicalCores" : 4,
+    "totalPhysMemBytes" : 15740305408
+  }, {
+    "hostId" : "i-02b9325b31234dd63",
+    "ipAddress" : "172.31.53.132",
+    "hostname" : "ip-172-31-53-132.ec2.internal",
+    "rackId" : "/default",
+    "hostUrl" : "http://ip-172-31-53-129.ec2.internal:7180/cmf/hostRedirect/i-02b9325b31234dd63",
+    "maintenanceMode" : false,
+    "maintenanceOwners" : [ ],
+    "commissionState" : "COMMISSIONED",
+    "numCores" : 4,
+    "numPhysicalCores" : 4,
+    "totalPhysMemBytes" : 15740305408
+  } ]
+}
 
 
 ```
